@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_feature_boxes",
+  "info": {
+    "displayName": "FeatureBox"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "body": {
+      "type": "text"
+    }
+  }
+}

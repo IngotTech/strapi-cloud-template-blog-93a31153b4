@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_feature_sections",
+  "info": {
+    "displayName": "FeatureSection"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subTitle": {
+      "type": "string"
+    }
+  }
+}
